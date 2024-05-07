@@ -1,0 +1,27 @@
+{
+  "name": "@scpub/dirpath",
+  "version": "1.0.0",
+  "description": "local path for mjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scpub/mjsdir.git"
+  },
+  "keywords": [
+    "mjs",
+    "es6",
+    "dirname",
+    "scpu",
+    "dirpath"
+  ],
+  "author": "scpu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/scpub/mjsdir/issues"
+  },
+  "homepage": "https://github.com/scpub/mjsdir#readme"
+}
